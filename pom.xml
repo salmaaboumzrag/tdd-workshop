@@ -43,6 +43,7 @@
 
   <modules>
     <module>string-calculator</module>
+      <module>FizzBuzz</module>
   </modules>
 
   <build>
